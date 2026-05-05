@@ -1,10 +1,14 @@
 EDS Practicals Repository
+
 This repository contains all EDS practical assignments.
 
 👤 Student Details
 Name: Jay Mali
+
 PRN Number: 202501040023
+
 Course: EDS
+
 📂 Practicals Included
 Practical 1
 Practical 2
